@@ -1,0 +1,102 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: #10141E;
+}
+
+.logContainer{
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  background: #161D2F;
+  width: 400px;
+  height: 373px;
+  top: 187px;
+  left: 420px;
+  
+}
+
+.registerButton{
+  position: static;
+  display: block;
+  background-color: #FC4747;
+  color: white;
+  cursor: pointer;
+  margin: 50px 630px;
+  width: 250px;
+  height: 50px;
+}
+
+.registerButton:hover {
+  opacity: 0.75;
+  transition: 0.5ms;
+}
+.regisForm {
+  margin-top: 50px;
+ 
+}
+.regisForm p input {
+  display: flex;
+  align-items: center;
+  margin: 5px 50px;
+  width: 250px;
+  height: 50px;
+  transform: translate(-50%, -50%);
+  background: white;
+  border-radius: 10px;
+  top: 187px;
+  left: 420px;
+
+}
+.logContainer h1 {
+  text-decoration-color: black     ;
+  color: white;
+  list-style:none;
+  margin: 50px 600px;
+}
+.logContainer span {
+ 
+  color: white;
+ list-style:none;
+}
+.logContainer span:hover{
+ color: black;
+ opacity: 0.75;
+ transition: 0.10ms;
+}
+.notRegister{
+  margin: 5px 590px;
+}
+.contunie{
+  list-style: none;
+  text-decoration: none;
+}
+.click{
+  color: white;
+  text-decoration: none;
+}
+.signOuts{
+  color: rgb(219, 219, 255);
+  background-color: #161D2F;
+  border:none;
+  margin-top: 20px ;
+  padding-right: 55px;
+  cursor: pointer;
+}
+.headUser{
+  font-size: 25px;
+  color: white;
+  margin-top: 20px ;
+  margin-right: 10px;
+}
+.welcome{
+  color: rgb(219, 219, 255);
+  margin-top: 15px ;
+  margin-right: 10px;
+  font-size:25px;
+}
