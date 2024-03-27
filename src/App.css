@@ -100,3 +100,18 @@ body {
   margin-right: 10px;
   font-size:25px;
 }
+.anaMenu img{
+  width: 420px;
+  height: 180px;
+  top: 257px;
+  left: 275px;
+  gap: 40px;
+}
+
+.trending{
+  width: 220px;
+  height: 140px;
+  top: 257px;
+  left: 275px;
+  gap: 40px;
+}
