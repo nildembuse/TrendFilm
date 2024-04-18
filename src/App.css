@@ -100,18 +100,47 @@ body {
   margin-right: 10px;
   font-size:25px;
 }
-.anaMenu img{
-  width: 420px;
-  height: 180px;
+.navbar{
+  width: 2510px;
+  height: 295px;
+  top: 40px;
+  left: 40px;
+  gap: 0px;
+  opacity: 0px;  
+}
+.navbar h3{
+  width: 122px;
+  height: 40px;
+  gap: 0px;
+  opacity: 0px;
+  color: #fff;
+
+}
+.navbar img{
+  width: 470px;
+  height: 230px;
   top: 257px;
   left: 275px;
   gap: 40px;
 }
-
 .trending{
-  width: 220px;
-  height: 140px;
-  top: 257px;
-  left: 275px;
-  gap: 40px;
+  width: 1240px;
+  height: 226px;
+  top: 537px;
+  left: 164px;
+  gap: 0px;
+
+}
+.trending img{
+  width: 280px;
+  height: 226px;
+  gap: 0px;
+  
+}
+.trending h4{
+  width: 312px;
+  height: 40px;
+  gap: 0px;
+  opacity: 0px;
+  color: #fff;
 }

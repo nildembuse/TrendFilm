@@ -2,11 +2,16 @@ import "/src/App.css"
 function Home () {
     return(
         <div className="anaMenu">
-            <h3>Trending</h3>
-            <img src="/src/assets/img/movies6 .jpg" alt="" />
-            <img src="/src/assets/img/movies10.jpg" alt="" />
-            <img src="/src/assets/img/anamenu.jpg" alt="" />
 
+            <div className="navbar">
+                <h3>Trending</h3>
+                <img src="/src/assets/img/movies6 .jpg" alt="" />
+                <img src="/src/assets/img/movies10.jpg" alt="" />
+                <img src="/src/assets/img/anamenu.jpg" alt="" />
+                <img src="/src/assets/img/anamenu3.jpg" alt="" />
+                <img src="/src/assets/img/tvseries1.jpg" alt="" />
+
+            </div>
             <div className="trending">
                 <h4>Recommended for you</h4>
                 <img src="/src/assets/img/movies1.jpg" alt="" />
@@ -31,7 +36,7 @@ function Home () {
                 <img src="/src/assets/img/tvseries11.jpg" alt="" />
                 <img src="/src/assets/img/tvseries13.jpg" alt="" />
                 <img src="/src/assets/img/movies12.jpg" alt="" />
-                <img src="/src/assets/img/tvseries12.jpg" alt="" />
+                <img src="/src/assets/img/tvseries12.jpg" alt=""/>
                 <img src="/src/assets/img/movies13.jpg" alt="" />
             </div>
 
