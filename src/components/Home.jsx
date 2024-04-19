@@ -1,4 +1,6 @@
+import React from "react";
 import "/src/App.css"
+import Home from "../home.json";
 function Home () {
     return(
         <div className="anaMenu">
